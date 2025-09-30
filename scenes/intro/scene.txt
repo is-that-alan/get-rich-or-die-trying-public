@@ -1,0 +1,3 @@
+[BGM:story_sad]
+[BGM_END:stop]
+[TITLE:重新出發]

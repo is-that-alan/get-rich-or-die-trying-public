@@ -1,0 +1,2 @@
+[BGM:story_sad]
+[BGM_END:stop]

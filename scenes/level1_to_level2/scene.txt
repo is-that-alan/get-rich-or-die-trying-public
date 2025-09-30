@@ -1,0 +1,3 @@
+[BGM:story_intro]
+[BGM_END:stop]
+[TITLE:2000年後嘅新開始]

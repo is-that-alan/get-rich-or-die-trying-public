@@ -1,0 +1,39 @@
+1
+00:00:000 --> 00:02:000
+[CHARACTER:旁白][COLOR:yellow]
+外賣伯輾轉搵到傳說中發展出自我，仲識魔法嘅機械人
+
+2
+00:02:000 --> 00:03:000
+[CHARACTER:外賣伯]
+神仙，終於畀我見到你
+
+3
+00:03:000 --> 00:04:000
+[CHARACTER:AI魔法師][COLOR:purple]
+Hello! How can I assist you today?
+
+4
+00:04:000 --> 00:05:000
+[CHARACTER:外賣伯]
+我想時光倒流返去以前
+
+5
+00:05:000 --> 00:06:000
+[CHARACTER:AI魔法師][COLOR:purple]
+時光倒流 從來都係禁忌
+
+6
+00:06:000 --> 00:07:000
+[CHARACTER:外賣伯]
+咁你有無辦法可以幫我?
+
+7
+00:07:000 --> 00:08:000
+[CHARACTER:AI魔法師][COLOR:purple]
+咁就睇你有幾多..
+
+8
+00:08:000 --> 00:09:000
+[CHARACTER:AI魔法師][COLOR:purple]
+誠意

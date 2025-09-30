@@ -1,0 +1,24 @@
+1
+00:00:000 --> 00:02:000
+[CHARACTER:旁白][COLOR:yellow]
+隨住iPhone嘅興起，外賣仔加入寫App 嘅行列
+
+2
+00:02:000 --> 00:03:000
+[CHARACTER:旁白][COLOR:yellow]
+佢努力學習
+
+3
+00:03:000 --> 00:04:500
+[CHARACTER:旁白][COLOR:yellow]
+有效運用AWS幫客人用性價比最高嘅service砌solution
+
+4
+00:04:500 --> 00:05:500
+[CHARACTER:旁白][COLOR:yellow]
+唔係話賣花讚花香
+
+5
+00:05:500 --> 00:07:000
+[CHARACTER:旁白][COLOR:yellow]
+AWS 的確有效率咁幫到外賣仔

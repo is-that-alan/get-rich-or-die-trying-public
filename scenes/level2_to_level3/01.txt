@@ -1,0 +1,34 @@
+1
+00:00:000 --> 00:02:000
+[CHARACTER:有錢Kam L][COLOR:green]
+今日我生日 食完飯不如上我屋企睇戲
+
+2
+00:02:000 --> 00:04:000
+[CHARACTER:有錢Kam L][COLOR:green]
+我屋企張床又大又圓
+
+3
+00:04:000 --> 00:05:500
+[CHARACTER:女朋友][COLOR:red]
+哈哈 唔好了 今晚唔方便
+
+4
+00:05:500 --> 00:07:000
+[CHARACTER:女朋友][COLOR:red]
+(睬你都傻)
+
+5
+00:07:000 --> 00:08:000
+[CHARACTER:有錢Kam L][COLOR:green]
+其實我畀哂機會你 點解唔好好珍惜呢
+
+6
+00:07:000 --> 00:08:000
+[CHARACTER:有錢Kam L][COLOR:green]
+(毛手毛腳)
+
+7
+00:05:500 --> 00:07:000
+[CHARACTER:女朋友][COLOR:red]
+(救命..)
