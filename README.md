@@ -75,8 +75,6 @@ love .
 - **↑↑↓↓←→W**: Instant win current battle
 - **↑↑↓↓←→M**: +$1000 money
 - **↑↑↓↓←→D**: Cut-in dialogue test menu
-- **↑↑↓↓←→S**: Story scene test menu
-- **↑↑↓↓←→1**: Music test menu
 
 ---
 
@@ -156,7 +154,7 @@ Major story battles with unique mechanics
 - [x] 15+ passive relics with cultural references
 - [x] Shop system with rarity-based items
 - [x] Random event encounters
-- [x] Story scene system (10+ scenes)
+- [x] Story scene system
 - [x] Cut-in dialogue animations
 - [x] Visual effects (shake/particles/transitions)
 - [x] Weather/typhoon system
