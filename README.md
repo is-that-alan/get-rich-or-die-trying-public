@@ -10,6 +10,11 @@
 
 **Get Rich or Die Trying** is a **mahjong roguelike**, combining authentic Hong Kong mahjong mechanics with card-based progression and a multi-generational time-loop narrative spanning Hong Kong's economic history from the 1990s to 2020s.
 
+![Scene screenshot 1](https://raw.githubusercontent.com/is-that-alan/get-rich-or-die-trying-public/main/public/images/pitch-image-scene-1.png)
+
+![Game screenshot 2](https://raw.githubusercontent.com/is-that-alan/get-rich-or-die-trying-public/main/public/images/pitch-image-game-2.png)
+
+
 ### What Makes This Special
 
 - **🀄 Real Mahjong**: Authentic Hong Kong mahjong rules with 14-tile winning hands and traditional fan scoring
